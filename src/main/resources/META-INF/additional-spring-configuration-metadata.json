@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.devtools.restart.log-condition-evaluation-delta",
+      "type": "java.lang.String",
+      "description": "Description for spring.devtools.restart.log-condition-evaluation-delta."
+  }
+] }
